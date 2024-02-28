@@ -1,0 +1,8 @@
+[Flatpak Repo]
+Title=FreeCAD realthunder
+Url=https://raw.githubusercontent.com/twelho/freecad-realthunder/master/repo
+Homepage=https://github.com/twelho/freecad-realthunder
+Comment=Nightly builds of realthunder's FreeCAD fork
+Description=Nightly builds of realthunder's FreeCAD fork
+Icon=https://wiki.freecadweb.org/images/0/06/Freecad.svg
+GPGKey=mDMEYvo/LhYJKwYBBAHaRw8BAQdA90QSZco/qaiXMPm2xQmk/m0WeJ2C19nEGcFW5E+qXLm0PUZyZWVDQUQgcmVhbHRodW5kZXIgU2lnbmluZyBLZXkgPGZsYXRwYWtAZnJlZWNhZC1yZWFsdGh1bmRlcj6IkAQTFggAOBYhBEwGyG3Wvt1Pek2lda6OwdiFUj/aBQJi+j8uAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEK6OwdiFUj/ag8oA/2+M/5tjmXcCffhfKxC7R+XGy39/cnrdQyZSqBtfVVXcAP4r9/l7ZSE1/KequVnnEoEJxdysIIOW7E3dru4weMrOBg==
